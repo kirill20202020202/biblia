@@ -1,0 +1,64 @@
+body{
+    background-image:url(https://phonoteka.org/uploads/posts/2021-04/1618576149_45-phonoteka_org-p-fon-nebo-s-oblakami-dlya-fotoshopa-58.jpg); 
+    text-align: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .books
+ {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+ }
+ .book img{
+     width: 300px;
+ }
+ .text {
+    display: flex;
+    justify-content: space-around;
+   }
+ h1{
+     background: linear-gradient(135deg, #d10ce2 20%, #a2ff00 70%);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     font-size:50px;
+     font-family: Impact;
+  
+ }
+ p{
+     font-size: 30px;
+     color: rgb(0, 255, 76);
+ }
+ .body_meny
+ {
+    background-image:url(https://img.freepik.com/free-vector/beautiful-book-club-pattern-illustration_23-2149330102.jpg?w=826&t=st=1695387504~exp=1695388104~hmac=519cb6788c63c52f06fbb6eff33cca71679b6ad2d20deca5016dd994a3f0bb53); 
+    
+ }
+ .hhhs{
+   background: linear-gradient(135deg, #a71b1b 20%, #ff0000 70%);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     font-size:50px; 
+ }
+.hjhj {
+    background: linear-gradient(135deg, #00ffff 20%, #04dd78 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size:50px; 
+}
+ 
+.body_podershka
+{
+    background-image:url(https://www.ameris.co.uk/wp-content/uploads/2019/08/home-banner-1.jpg)
+}
+h6{
+    font-size:40px;
+    background: linear-gradient(135deg, #66ff00 20%, #b66c0c 70%);
+    font-style: italic;
+    width: 70%;
+    margin-left:15%;
+    margin-right:15%;
+}
+
+
+
