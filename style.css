@@ -26,7 +26,7 @@ body{
   
  }
  p{
-     font-size: 30px;
+     font-size: 20px;
      color: rgb(0, 255, 76);
  }
  .body_meny
@@ -59,6 +59,11 @@ h6{
     margin-left:15%;
     margin-right:15%;
 }
+.body_onas
+{
+    background-image:url(https://phonoteka.org/uploads/posts/2021-03/1616675426_24-p-programmirovanie-fon-29.jpg)
+}
+
 
 
 
